@@ -1,7 +1,8 @@
-       Hi 👋,I'm SAILESH KOLLIPARA
+# Hi 👋,I'm SAILESH KOLLIPARA
 
-               A passionate frontend developer from India
- • 🌱 I'm currently learning C++,Python,Web development
+# I'm passionate about data and technology.
+Here's a little about me:
+ - 🌱 Currently learning C++,Python.
  
  Connect with me:
  www.linkedin.com/in/sailesh-kollipara-5a75a3280
